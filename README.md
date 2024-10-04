@@ -1,6 +1,6 @@
 -🚀 Passionate Software Engineer | Problem Solver | Passionate about C++
 
-🎓 Current: FAST NUCES Lahore | BS Software Engineering (2nd Semester)
+🎓 Current: FAST NUCES Lahore | BS Software Engineering (3rd Semester)
 
 Hey there! 👋 I'm Tayyaba Fatima, a results-driven student software engineer at Fast Nuces with a love for crafting efficient solutions. 
 💡 Key Expertise:
@@ -8,9 +8,6 @@ Hey there! 👋 I'm Tayyaba Fatima, a results-driven student software engineer a
 C++ Aficionado: I derive immense satisfaction from crafting meticulously structured and highly efficient code in C++, perpetually exploring the boundless potentialities of the language.
 
 Problem Resolution Maven: Reveling in intellectual challenges, I derive joy from unraveling intricate problems and engaging in the art of deciphering complex coding enigmas.
-
-🔐 Cybersecurity Aficionado:
-My inquisitiveness extends into the intricate realm of cybersecurity, where I am fervently committed to comprehending and contributing to fortifying the digital landscape.
 
 🌐 Strategic Aspirations:
 In the nascent stages of my academic odyssey, I actively seek avenues to translate theoretical knowledge into practical proficiency in software development and cybersecurity. Keenly open to internships, collaborative projects, and opportunities that afford me the terrain to apply and amplify my multifaceted skill set.
